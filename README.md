@@ -22,3 +22,5 @@ This project implements an ELT pipeline to analyze the relationship between sola
 * **Raw Data:** Stored in `data/raw/`.
 * **Processed Data:** Stored in `data/processed`.
 * **Transformed Data:** Stored in `data/cleaned`.
+
+### [Data Cleaning, Transformation, Analysis and Visualisation](/transform_clean_analyze.ipynb)
